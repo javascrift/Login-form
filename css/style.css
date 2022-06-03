@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(12, 34, 236);
+    text-align: center;
+  }
+  * {
+      text-align: center; color: white;
+      background-color: rgb(30, 236, 11);
+  }
+  #submit-btn { background-color: rgb(235, 8, 8);
+      color: rgb(239, 239, 245);
+  }
